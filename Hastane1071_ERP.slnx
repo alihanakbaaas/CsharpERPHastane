@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Hastane1071.Business/Hastane1071.Business.csproj" Id="6103909f-8efb-4fd5-bdc9-5967c2317ffc" />
+  <Project Path="Hastane1071.DataAccess/Hastane1071.DataAccess.csproj" Id="4dcdd30f-e6ff-4da7-a693-149aaa3adad1" />
+  <Project Path="Hastane1071.Entities/Hastane1071.Entities.csproj" Id="4ddbbd1d-be55-4c3a-8d02-e6aa36ef0096" />
+  <Project Path="Hastane1071.UI/Hastane1071.UI.csproj" Id="de76fc7d-5517-4ca2-86af-c61dc2f79821" />
+</Solution>
