@@ -376,4 +376,4 @@ Bu proje aşağıdaki konseptleri öğretmektedir:
 
 ---
 
-**© 2024 Hastane1071. Tüm Hakları Saklıdır.**
+**© 2026 Hastane1071. Tüm Hakları Saklıdır.**
